@@ -14,6 +14,7 @@ fortunes = [
 
 # Phase 2
 
+
 def main():
   answer = input('Would you like your fortune told?\n')
   while answer.lower() != 'no':
