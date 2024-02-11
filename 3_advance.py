@@ -1,4 +1,4 @@
-import random, calendar
+import random
 from time import sleep
 
 months = []
